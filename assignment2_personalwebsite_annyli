@@ -1,0 +1,103 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>COMM2036 Assignment2</title>
+            <meta name="description" content="own_wewbsite_composition_skills_sharing">
+            <meta name="author" content="Li Uen Ying Anny">
+        </head>
+        <body>
+            <!-- title of the website -->
+            <h1 align=“center”>Basic Composition Skill Sharing</h1>
+             <h2>1.What is composition?</h2>
+                 <h3>1.1 Definiton</h3>
+                     <p>All the <mark>ways arranging object in a pianting or photograph</mark> can be called as Composition.</p>
+                 <h3>1.2 Function</h3>
+                     <p>Composition can <mark>enhances effect in your painting or photograph</mark>, such as enhancing lonely/empty by leaving space, opposing by unbalance and peaceful by balance. They can help you express the conception of your painting or photograph.</p>
+            <h2>2.Composition Skills</h2>
+                <ul>
+                    <li>Balance</li>
+                    <img src="https://i.pinimg.com/564x/a5/96/24/a5962496a756ecebce3d8cd8527e0f3a.jpg">
+                    <li>Unbalnce</li>
+                    <img src="https://i.pinimg.com/564x/42/25/2a/42252a142d24519d3e6eb25ba1374e12.jpg">
+                    <li>Framing</li>
+                    <img src="https://i.pinimg.com/564x/0a/df/32/0adf322f9b98eafe29b736bc34e81783.jpg">
+                    <li>Leaving spaces</li>
+                    <img src="https://i.pinimg.com/564x/b0/95/8f/b0958f1a0db96af4e3fcaa0ff7903f95.jpg">
+                    <li>Golden spiral</li>
+                    <img src="https://i.pinimg.com/564x/8f/a8/58/8fa8587eca384cf7bda5977dfd2ae9b9.jpg">
+                    <li>Rule of thirds</li>
+                    <img src="https://i.pinimg.com/564x/8e/eb/1c/8eeb1c999d547b6e29dd5d67b958484e.jpg">
+                    <li>Vanishing point</li>
+                    <img src="https://i.pinimg.com/564x/0a/91/ac/0a91ac22b7da804c3cd4967b1133a910.jpg">
+                </ul>
+                <h3>2.1 How Do They Work</h3>
+                <ul>
+                    <li>Balance</li>
+                    <p>By arranging objects on picture symmertrically or avergely, we can make the effect like regular and peaceful. Meanwhile, objects being arranged are not necessarily to be same.</p>
+                    <li>Unbalnce</li>
+                    <p>Contrarily, by arranging objects on picture unbalanced, we can make the effect like opposing and intence.</p>
+                    <li>Framing</li>
+                    <p>By adding a frame or a foreground like a frame, we can make focus on the main object or hide something we do not want to show.</p>
+                    <li>Leaving spaces</li>
+                    <p>Unlike other composition, we need to monis somthing besides of the main object to make the focus on it, also giving auidence imaginary space.</p>
+                    <li>Golden section</li>
+                    <p>Being the composition which akways appear on flowers, snails and coonch, this composition comes from natural can bring us effect like harmonious and comfortable.</p>
+                    <li>Vanishing point</li>
+                    <p>By gathering lines on one point, we can show the sense of space and 3D effect in our picture.</p>
+                </ul>
+            <h2>3.Detailed tutorial</h2>
+               <p>visit<a href="https://www.youtube.com/watch?v=VArISvUuyr0&ab_channel=JamieWindsor">for photo composition</a></p>
+               <p><a href=""target=https://www.youtube.com/watch?v=VArISvUuyr0&ab_channel=JamieWindsor"_blank"></a></p>
+               <p>visit<a href="https://www.youtube.com/watch?v=5KX7WpRVtVU&ab_channel=Proko">for painting composition</a></p>
+               <p><a href=""target=https://www.youtube.com/watch?v=5KX7WpRVtVU&ab_channel=Proko"_blank"></a></p>
+            <h2>4.Summary table</h2>
+               <table border="1">
+                   <tr>
+                    <th>Composition Skills</th>
+                    <th>Balance</th>
+                    <th>Unbalance</th>
+                    <th>Framing</th>
+                    <th>Leaving spaces</th>
+                    <th>Golden section</th>
+                    <th>Vanishing point</th>
+                   </tr>
+                   <tr>
+                    <td>Emphasizing main character</td>
+                    <td></td>
+                    <td></td>
+                    <td>V</td>
+                    <td>V</td>
+                    <td>V</td>
+                    <td></td>
+                   </tr>
+                   <tr>
+                    <td>Increasing 3D effect</td>
+                    <td></td>
+                    <td></td>
+                    <td>V</td>
+                    <td></td>
+                    <td></td>
+                    <td>V</td>
+                   </tr>
+                   <tr>
+                    <td>Avoiding clutter</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td>V</td>
+                    <td></td>
+                    <td></td>
+                   </tr>
+                   <tr>Ehancing sense of storytelling
+                    <td>V</td>
+                    <td>V</td>
+                    <td></td>
+                    <td></td>
+                    <td>V</td>
+                    <td></td>
+                    <td></td>
+                   </tr>
+               </table>
+                
+        </body>
+    </html>
